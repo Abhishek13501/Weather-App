@@ -20,11 +20,27 @@ A clean and modern weather application that provides real-time weather informati
 
 ## Live Demo
 
-[Add your live demo link here]
+🌐 **[View Live Demo](https://weather-app-xi-ashy-48.vercel.app/)**
+
+Try it now! Search for any city worldwide to see real-time weather data and forecasts.
 
 ## Screenshots
 
-[Add screenshots of your app here]
+### Home Screen
+![Weather App Home](screenshots/home.png)
+*Welcome screen with search functionality*
+
+### Weather Display
+![Weather App Output](screenshots/output.png)
+*Complete weather information with current conditions, sunrise/sunset times, and 5-day forecast*
+
+---
+
+**Note:** To add your screenshots:
+1. Save your screenshots as `home.png` and `output.png` in the `screenshots` folder
+2. Commit and push to GitHub
+
+Alternatively, you can use image hosting services like Imgur and replace the paths with direct URLs.
 
 ## Setup Instructions
 
