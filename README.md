@@ -93,7 +93,7 @@ This app uses the free tier of OpenWeather API:
 
 ## Author
 
-[Abhishek Kethepally]
+Abhishek Kethepally
 
 ## Acknowledgments
 
